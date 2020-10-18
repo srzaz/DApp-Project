@@ -1,2 +1,2 @@
-# Inbox Project in Solidity
-Decentralized app in Solidity
+# Project in Solidity
+Decentralized app in progress
